@@ -1,0 +1,15 @@
+@charset "utf-8";
+body { background:#ccc; text-align:center; margin-top:1em;}
+#container { max-width:848px; margin: 0 auto; text-align:center; }
+.blogspot a { display:block; text-indent:-9999px; background:url('/images/blogspot_over.png') no-repeat; width:848px; height:86px; }
+.blogspot a:hover { background:url('/images/blogspot_over.png') -848px no-repeat; }
+.facebook a { display:block; text-indent:-9999px; background:url('/images/facebook_over.png') no-repeat; width:848px; height:88px; }
+.facebook a:hover { background:url('/images/facebook_over.png') -848px no-repeat; }
+.ffrecords a { display:block; text-indent:-9999px; background:url('/images/firstfold_over.png') no-repeat; width:848px; height:87px; }
+.ffrecords a:hover { background:url('/images/firstfold_over.png') -848px no-repeat; }
+.flickr a { display:block; text-indent:-9999px; background:url('/images/flickr_over.png') no-repeat; width:848px; height:87px; }
+.flickr a:hover { background:url('/images/flickr_over.png') -848px no-repeat; }
+.twitter a { display:block; text-indent:-9999px; background:url('/images/twitter_over.png') no-repeat; width:848px; height:85px; }
+.twitter a:hover { background:url('/images/twitter_over.png') -848px no-repeat; }
+.youtube a { display:block; text-indent:-9999px; background:url('/images/youtube_over.png') no-repeat; width:848px; height:86px; }
+.youtube a:hover { background:url('/images/youtube_over.png') -848px no-repeat; }
